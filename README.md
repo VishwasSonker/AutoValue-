@@ -4,6 +4,8 @@
 
 The project uses **Linear Regression** for price prediction and provides an interactive **Streamlit web application** where users can enter vehicle specifications and receive an estimated price.
 
+App link - https://9fh5hboqekdxbaoya6ugpv.streamlit.app/
+
 ---
 
 ## 🌟 Features
